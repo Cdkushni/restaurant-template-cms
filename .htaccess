@@ -338,7 +338,9 @@ FileETag None
   Options +FollowSymlinks
 # Options +SymLinksIfOwnerMatch
   RewriteEngine On
-# RewriteBase /
+  RewriteBase /
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^(.*)$ /index.php [L]
 </IfModule>
 
 
