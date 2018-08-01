@@ -11,9 +11,7 @@
 	}
 
 	$dir = dirname(__FILE__);
-	include $dir . "/partials/header.php";
 	require $dir . "/$file.php";
-	include $dir . "/partials/footer.php";
 
 	session_start();
 	require_once ('includes/config.php');
