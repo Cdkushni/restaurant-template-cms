@@ -1,0 +1,27 @@
+table.tablesorter thead th.header
+{
+	/*background-image: url(../images/bg.gif);*/
+	background-repeat: no-repeat;
+	background-position: center right;
+	padding-right: 20px;
+	cursor: pointer;
+	border-bottom: 1px solid #3C6C46;
+}
+table.tablesorter thead th.headerSortUp
+{
+	background-image: url(../images/asc.gif);
+	background-color:#c9e0cf;
+}
+table.tablesorter thead th.headerSortDown
+{
+	background-image: url(../images/desc.gif);
+	background-color:#c9e0cf;
+}
+table.tablesorter thead th.headerSortDown, table.tablesorter thead th.headerSortUp
+{
+	color: #000;
+}
+.tableFloatingHeader{
+	background: #fff;
+	box-shadow: 0px 0px 50px -8px #000;
+}

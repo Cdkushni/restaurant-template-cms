@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://zazzle-extensions.com/</loc>
+    <lastmod>2013-05-09 15:22:07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>http://zazzle-extensions.com/services-pricing/</loc>
+    <lastmod>2013-04-03 17:19:22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://zazzle-extensions.com/services-pricing/standard-extensions/</loc>
+    <lastmod></lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>http://zazzle-extensions.com/services-pricing/crazy-color/</loc>
+    <lastmod></lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>http://zazzle-extensions.com/services-pricing/diamond-strands/</loc>
+    <lastmod></lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>http://zazzle-extensions.com/where-does-hair-come-from/</loc>
+    <lastmod>2013-05-09 14:48:06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://zazzle-extensions.com/read-about-zazzle/</loc>
+    <lastmod>2013-04-05 14:02:22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://zazzle-extensions.com/contact-us/</loc>
+    <lastmod>2013-05-21 15:23:05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+</urlset>
