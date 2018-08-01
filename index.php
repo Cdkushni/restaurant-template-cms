@@ -7,11 +7,10 @@
 	if ( $name !== 'index' && is_file( __dir__ . "/$name.php" ) ) {
 		$file = $name;
 	} elseif (!$name) {
-		$file = 'home';
+		$file = '';
 	}
 
 	$dir = dirname(__FILE__);
-	require $dir . "/$file.php";
 
 	session_start();
 	require_once ('includes/config.php');
